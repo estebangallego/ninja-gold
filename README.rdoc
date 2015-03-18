@@ -1,0 +1,6 @@
+== README
+
+Logic
+
+1) create an empty session for 'Your gold session'
+2)

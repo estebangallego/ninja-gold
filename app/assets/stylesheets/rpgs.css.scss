@@ -1,0 +1,16 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+.span-box {
+	border: 1px solid black;
+	padding: 0px 25px;
+}
+.ninja-box {
+	border: 1px solid black;
+	margin: 10px;
+	padding-top: 5px;
+	text-align: center;
+	height: 200px;
+}
+.activities {
+    overflow: scroll;
+}
